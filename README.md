@@ -1,5 +1,7 @@
 # Auction website by PHP
 
+##Note: after cloning the project and before the running Apache server, extract Style.zip on the root folder (where index.php exists)
+
 ## This is a Auction website designed and developed based on PHP by : Yousef Emadi, Adrian Paz Alonso, Zhao Yu Zhang
 
 ## Domain for audiences: 
