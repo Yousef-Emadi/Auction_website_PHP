@@ -16,7 +16,7 @@ PHP language <br>
 SQL language <br>
 MySQL server <br>
 MAMP local server (Apache server) <br>
-sprint sessions <br>
+Sprint sessions <br>
 Fat-Free Framework <br>
 HTML 5 <br>
 CSS 3 <br>
