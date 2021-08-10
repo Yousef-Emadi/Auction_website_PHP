@@ -14,6 +14,7 @@ Everybody who want to sell or buy something based on auction rules and structure
 ## Tools we used:
 PHP language <br>
 SQL language <br>
+MySQL server <br>
 MAMP local server (Apache server) <br>
 sprint sessions <br>
 Fat-Free Framework <br>
