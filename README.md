@@ -12,17 +12,17 @@
 Everybody who want to sell or buy something based on auction rules and structure.
 
 ## Tools we used:
-PHP language
-SQL language
-MAMP local server (Apache server)
-sprint sessions
-Fat-Free Framework
-HTML 5
-CSS 3
-JavaScript
-Bootstrap framework
-Visual Studio Code
-Microsoft Teams
+PHP language <br>
+SQL language <br>
+MAMP local server (Apache server) <br>
+sprint sessions <br>
+Fat-Free Framework <br>
+HTML 5 <br>
+CSS 3 <br>
+JavaScript <br> 
+Bootstrap framework <br>
+Visual Studio Code <br>
+Microsoft Teams <br>
 
 ## Starting and ending the project: 
 From 05-08-2021 till 08-08-2021
