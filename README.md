@@ -23,7 +23,7 @@ From 05-08-2021 till 08-08-2021
 
 ## Improvements
 •	Improvement in code quality in terms of clean coding, DRY and etc. <br>
-•	Develop a messaging system for the users
-•	Adding image gallery for items with multimedia elements
-•	Adding ability for user profile edit
+•	Develop a messaging system for the users <br>
+•	Adding image gallery for items with multimedia elements <br>
+•	Adding ability for user profile edit <br>
 
