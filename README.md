@@ -2,7 +2,7 @@
 
 # NOTE 1 : after cloning the project and before the running Apache server, extract Style.zip on the root folder (where index.php exists)
 
-# NOTE 1 : SQL server port number shall be setup
+# NOTE 1 : MySQL server port number shall be setup before running server. It has been set on :3307
 
 # Note 3: to access to the database => username: ipd25 and password: ipd25_pw
 
